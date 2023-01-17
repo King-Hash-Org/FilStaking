@@ -27,15 +27,15 @@ C. Oracle DAO - group of special nodes that helps shuttle information, monitor p
 4. `TimelockController.sol` is responsible to safeguard KingHash from malicious actors.
 
 ## Layout
-├───script <br>
-├───src <br>
+` ├───script 
+├───src 
 │   ├───interfaces <br>
 │   │   ├─── ... <br>
 │   ├───tokens
 │   │   ├─── ...
 │   └───oracle
 │       ├─── ...
-└───test
+└───test `
 
 
 ## Quick Commands
