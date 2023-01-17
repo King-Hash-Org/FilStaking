@@ -21,10 +21,10 @@ C. Oracle DAO - group of special nodes that helps shuttle information, monitor p
 
 ## KingHash Fil Staking Contracts Overview
 ## Main Contracts
-`FilStaking.sol` is the liquid staking protocol contract that solves the problem of frozen staked Fil. 
-`KingHashOracle.sol` is to provide external information to the blockchain.
-`Kfil.sol` is to provide a way for holders to earn rewards for supporting the Filecoin network . 
-`TimelockController.sol` is responsible to safeguard KingHash from malicious actors.
+1. `FilStaking.sol` is the liquid staking protocol contract that solves the problem of frozen staked Fil. 
+2. `KingHashOracle.sol` is to provide external information to the blockchain.
+3. `KFil.sol` is to provide a way for holders to earn rewards for supporting the Filecoin network . 
+4. `TimelockController.sol` is responsible to safeguard KingHash from malicious actors.
 
 ## Layout
 
