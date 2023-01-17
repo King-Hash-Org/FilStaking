@@ -28,8 +28,8 @@ C. Oracle DAO - group of special nodes that helps shuttle information, monitor p
 
 ## Layout
 `├───script `<br>
-`├───src `
-│   ├───interfaces
+`├───src `  
+`│   ├───interfaces
 │   │   ├─── ... 
 │   ├───tokens
 │   │   ├─── ...
