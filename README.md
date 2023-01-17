@@ -30,10 +30,10 @@ C. Oracle DAO - group of special nodes that helps shuttle information, monitor p
 
 
 ## Quick Commands
-forge install
-forge remappings
-forge flatten <File>
-forge fmt
-forge tree
+- forge install
+- forge remappings
+- forge flatten <File>
+- forge fmt
+- forge tree
   
 ## Slither - Security Analyzer
