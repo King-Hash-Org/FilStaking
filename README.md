@@ -14,9 +14,9 @@ KingHash API and smart contracts can be integrated into your application to help
 Kinghash’s fil staking feature will enable individuals to organizations to stake and support the Filecoin network without running any complicated infrastructure. FIL that is staked within the protocol (kFil) returns a liquid staking , will offer increased liquidity and can be loaned to storage providers based on their reputation recorded on the blockchain, and also to be used in yield farming, lending pools, AMMs. 
 
 ## KingHash Fil-Staking will accomplish these following features through smart contract 
-A. KingHash DAO -- will allow the platform to be transparent/trustless and run by kFil holders
-B. Liquid Staking Feature - lets stakers earn passive income . 
-C. Oracle DAO - group of special nodes that helps shuttle information, monitor proposals / voting to the protocol 
+1. KingHash DAO -- will allow the platform to be transparent/trustless and run by kFil holders
+2.  Liquid Staking Feature - lets stakers earn passive income . 
+3. Oracle DAO - group of special nodes that helps shuttle information, monitor proposals / voting to the protocol 
 
 
 ## KingHash Fil Staking Contracts Overview
