@@ -37,6 +37,11 @@ C. Oracle DAO - group of special nodes that helps shuttle information, monitor p
 │       ├─── ...
 └───test
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 ## Quick Commands
 - forge install
 - forge remappings
