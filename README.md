@@ -6,6 +6,8 @@
 
 #  KingHash Fil Staking 
 
+https://www.kinghash.com/fileCoinState?tabActive=1
+
 
 ### FIL Staking made **effortless**. Earn rewards from staking FIL. By depositing FIL into KingHash, you will essentially be committing to providing storage space to the Filecoin network. and receive kFIL rewards in return.
 
