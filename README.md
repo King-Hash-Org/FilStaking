@@ -1,4 +1,11 @@
-#  ![image](https://user-images.githubusercontent.com/103015469/213083918-a46d25d4-8a9a-4446-b111-d687802507b1.png) KingHash Fil Staking 
+![kreek] (https://user-images.githubusercontent.com/103015469/213083918-a46d25d4-8a9a-4446-b111-d687802507b1.png) 
+![node](https://img.shields.io/badge/node-v10.15.3-green)
+![npm](https://img.shields.io/badge/npm-v6.9.0-green)
+![solidity](https://img.shields.io/badge/solidity-0.8.13-brightgreen)
+![license](https://img.shields.io/github/license/kreekapp/kreek-contracts)
+![contributors](https://img.shields.io/github/contributors/kreekapp/kreek-contracts)
+
+#  KingHash Fil Staking 
 
 
 ### FIL Staking made **effortless**. Earn rewards from staking FIL. By depositing FIL into KingHash, you will essentially be committing to providing storage space to the Filecoin network. and receive kFIL rewards in return.
