@@ -60,4 +60,4 @@ Kinghash’s fil staking feature will enable individuals to organizations to sta
   
  ## Architecture Diagram
 
-![image](https://user-images.githubusercontent.com/108317502/213113173-9f9c0182-7f99-4caa-8fab-a0d6dcab40ef.png)
+![image](![image](https://user-images.githubusercontent.com/108317502/213137628-9631fcae-0191-456d-9b81-40d1b62b01f0.png))
