@@ -36,23 +36,25 @@ Kinghash’s fil staking feature will enable individuals to organizations to sta
 4. `TimelockController.sol` is responsible to safeguard KingHash from malicious actors.
 
 ## Layout
-`├───script `<br>
-`├───src `  <br>
-`│   ├───interfaces` <br>
-`│   │   ├─── ... ` <br>
-`│   ├───tokens` <br>
-`│   │   ├─── ... `<br>
-`│   └───oracle `<br>
-`│       ├─── ... `<br>
-`└───test ` <br>
+```
+├───script
+├───src 
+│   ├───interfaces
+│   │   ├─── ...
+│   ├───tokens
+│   │   ├─── ...
+│   └───oracle
+│       ├─── ...
+└───test
+```
 
 
 ## Quick Commands
-- forge install
-- forge remappings
-- forge flatten <File>
-- forge fmt
-- forge tree
+- `forge install`
+- `forge remappings`
+- `forge flatten <File>`
+- `forge fmt`
+- `forge tree`
   
  ## Architecture Diagram
 
