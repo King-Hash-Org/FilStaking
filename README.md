@@ -52,4 +52,6 @@ Kinghash’s fil staking feature will enable individuals to organizations to sta
 - forge fmt
 - forge tree
   
- 
+ ## Architecture Diagram
+
+![image](https://user-images.githubusercontent.com/108317502/213112181-e2490b9f-2d6d-49f0-91b5-0a9ad5d0e52b.png)
