@@ -10,7 +10,8 @@
 
 
 
-### FIL Staking made **effortless**. Earn rewards from staking FIL. By depositing FIL into KingHash, you will essentially be committing to providing storage space to the Filecoin network. and receive kFIL rewards in return.
+###  Effortlessly earn rewards from staking FIL by depositing it into KingHash, which allows you to commit to providing storage space to the Filecoin network and receive kFIL rewards in return. 
+
 
 ## Maximum stability & uptime 📱
 KingHash node operators run a highly available and secure infrastructure to ensure validators are never penalized.
