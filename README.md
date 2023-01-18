@@ -4,9 +4,10 @@
 ![npm](https://img.shields.io/badge/npm-v6.9.0-green)
 ![solidity](https://img.shields.io/badge/solidity-0.8.13-brightgreen)
 
-#  KingHash Fil Staking 
+  
+# [KingHash Fil Staking ]([https://link-url-here.org](https://www.kinghash.com/fileCoinState?tabActive=1))
 
-https://www.kinghash.com/fileCoinState?tabActive=1
+
 
 
 ### FIL Staking made **effortless**. Earn rewards from staking FIL. By depositing FIL into KingHash, you will essentially be committing to providing storage space to the Filecoin network. and receive kFIL rewards in return.
