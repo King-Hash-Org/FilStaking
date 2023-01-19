@@ -14,7 +14,7 @@
 
 
 ## Maximum stability & uptime 📱
-KingHash node operators run a highly available and secure infrastructure to ensure validators are never penalized.
+KingHash node operators run a highly available and secure infrastructure to ensure validators are used to validate the storage services.
 ## DeFi strategies 💰
 KingHash is integrated with many DeFi projects that can help you boost your staked FIL earnings.
 ## Real-time monitoring 🕒 
